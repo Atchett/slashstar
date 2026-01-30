@@ -39,3 +39,8 @@ Working files, experiments, and internal drafts live elsewhere.
 An overview of the project’s design approach and positioning can be found here:
 
 https://slashstar.store/pages/design-approach
+
+## Additional Notes
+
+- [Languages](languages.md)
+- [Design Notes](design-notes.md)
