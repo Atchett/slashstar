@@ -36,6 +36,6 @@ Working files, experiments, and internal drafts live elsewhere.
 
 ## Project Site
 
-The public site for the project is:
+An overview of the project’s design approach and positioning can be found here:
 
-https://slashstar.store
+https://slashstar.store/pages/design-approach
